@@ -13,6 +13,17 @@ def compare_lines(list_lines_a, list_lines_b):
     return duplicates
 
 
+def ex_compare(list_a, list_b):
+    ex_dupl = []
+    for k in range(0, len(list_a)):
+        if len(ex_dupl) != 0:
+            if list_b.index(list_a[k-1]) < list_b.index(list_a[k]):
+                ex_dupl.append(list_a[k])
+        else:
+            ex_dupl.append(list_a[k])
+    return ex_dupl
+
+
 # cluster voice lines into interactions
 def cluster_interaction(list_lines, dataframe):
     interactions = []
@@ -96,6 +107,22 @@ if __name__ == '__main__':
     # remove duplicates in list
     dupl_ak_dl_gg = list(OrderedDict.fromkeys(dupl_ak_dl_gg))
 
+    # INTERACTIONS IN EXACT SAME ORDER
+    # compare both directions ak vs dl
+    dupl_dl_ak = compare_lines(text_dl_list, text_ak_list)
+    # remove duplicates from list
+    dupl_ak_dl = list(OrderedDict.fromkeys(dupl_ak_dl))
+    dupl_dl_ak = list(OrderedDict.fromkeys(dupl_dl_ak))
+    # use method to check order
+    ex_dl_ak = ex_compare(dupl_ak_dl, dupl_dl_ak)
+    # remove duplicates
+    text_gg_list = list(OrderedDict.fromkeys(text_gg_list))
+    # compare both directions ak + dl vs. gg
+    dupl_gg_ak_dl = compare_lines(text_gg_list, ex_dl_ak)
+    dupl_dl_ak_gg = compare_lines(ex_dl_ak, text_gg_list)
+    # use method to check order
+    ex_dupl_gg_ak_dl = ex_compare(dupl_dl_ak_gg, dupl_gg_ak_dl)
+
     # cluster voice lines into interactions into dataframe
     list_interactions, df_dupl_lines = cluster_interaction(dupl_ak_dl_gg, df_ak)
     df_interactions = pd.DataFrame(list_interactions)
@@ -103,10 +130,18 @@ if __name__ == '__main__':
         ["speaker", "addressed1", "addressed2", "type", "place", "no_lines"],
         axis="columns")
 
+    # cluster EXACT SAME (in order) voice lines into interactions
+    list_ex_interactions, df_ex_dupl_lines = cluster_interaction(ex_dupl_gg_ak_dl, df_ak)
+    df_ex_interactions = pd.DataFrame(list_ex_interactions)
+    df_ex_interactions = df_ex_interactions.set_axis(
+        ["speaker", "addressed1", "addressed2", "type", "place", "no_lines"],
+        axis="columns")
+
     # VOICE LINES PER INTERACTION
     # count how often an interaction contains n number of voice lines
     count_no_of_lines = df_interactions["no_lines"].value_counts()
-
+    # also for EXACT SAME voice lines
+    count_ex_no_of_lines = df_ex_interactions["no_lines"].value_counts()
     # gather complete information
     keys_lines = []
     values_lines = []
@@ -116,31 +151,58 @@ if __name__ == '__main__':
             values_lines.append(count_no_of_lines[i])
         else:
             values_lines.append(0)
+    # complete information for EXACT SAME voice lines
+    keys_ex_lines = []
+    values_ex_lines = []
+    for i in range(1, 18):
+        keys_ex_lines.append(str(i))
+        if i in count_ex_no_of_lines.index:
+            values_ex_lines.append(count_ex_no_of_lines[i])
+        else:
+            values_ex_lines.append(0)
 
     # WHO SPEAKS
     count_speaker = df_dupl_lines["Sprecher:in"].value_counts()
     speaker_x, speaker_y = series_to_values(count_speaker)
+    # also for exact same voice lines
+    count_ex_speaker = df_ex_dupl_lines["Sprecher:in"].value_counts()
+    ex_speaker_x, ex_speaker_y = series_to_values(count_ex_speaker)
 
     # TO WHOM
     count_addressed = df_dupl_lines[["Angesprochene:r 1", "Angesprochene:r 2"]].stack().value_counts()
     addressed_x, addressed_y = series_to_values(count_addressed)
+    # also for exact same voice lines
+    count_ex_addressed = df_ex_dupl_lines[["Angesprochene:r 1", "Angesprochene:r 2"]].stack().value_counts()
+    ex_addressed_x, ex_addressed_y = series_to_values(count_ex_addressed)
 
     # TYPE OF INTERACTION
     count_type = df_interactions["type"].value_counts()
     type_x, type_y = series_to_values(count_type)
+    # also for exact same voice lines
+    count_ex_type = df_ex_interactions["type"].value_counts()
+    ex_type_x, ex_type_y = series_to_values(count_ex_type)
 
     # PLACE
     count_place = df_interactions["place"].value_counts()
-    count_place = count_place.drop("nan")
     place_x, place_y = series_to_values(count_place)
+    # also for exact same voice lines
+    count_ex_place = df_ex_interactions["place"].value_counts()
+    ex_place_x, ex_place_y = series_to_values(count_ex_place)
 
     # CROSSTABLES
-    speaker_x_type = pd.crosstab(df_dupl_lines["Sprecher:in"], df_dupl_lines["Interaktionstyp"],
+    speaker_x_type = pd.crosstab(df_interactions["speaker"], df_interactions["type"],
                                  margins=True, margins_name="Gesamt")
-    speaker_x_place = pd.crosstab(df_dupl_lines["Sprecher:in"], df_dupl_lines["Ort"],
+    speaker_x_place = pd.crosstab(df_interactions["speaker"], df_interactions["place"],
                                   margins=True, margins_name="Gesamt")
-    interaction_x_place = pd.crosstab(df_dupl_lines["Interaktionstyp"], df_dupl_lines["Ort"],
+    interaction_x_place = pd.crosstab(df_interactions["type"], df_interactions["place"],
                                       margins=True, margins_name="Gesamt")
+    # also for exact same voice lines
+    EX_speaker_x_type = pd.crosstab(df_ex_interactions["speaker"], df_ex_interactions["type"],
+                                    margins=True, margins_name="Gesamt")
+    EX_speaker_x_place = pd.crosstab(df_ex_interactions["speaker"], df_ex_interactions["place"],
+                                     margins=True, margins_name="Gesamt")
+    EX_interaction_x_place = pd.crosstab(df_ex_interactions["type"], df_ex_interactions["place"],
+                                         margins=True, margins_name="Gesamt")
 
     # checks for specific interactions
     """desired_value_index = 5
@@ -151,18 +213,39 @@ if __name__ == '__main__':
 
     # BARPLOTS
     plot_style(place_x, place_y, 10, 5,
-               "Ort der Interaktion", "Häufigkeit", 30)
+               "Ort der Interaktion", "Häufigkeit", 90)
     plot_style(type_x, type_y, 10, 7,
-               "Art der Interaktion", "Häufigkeit", 30)
+               "Art der Interaktion", "Häufigkeit", 90)
     plot_style(addressed_x, addressed_y, 10, 7,
                "Zuhörende Figur", "Anzahl gehörter Sprechakte", 90)
     plot_style(speaker_x, speaker_y, 10, 7,
                "Sprechende Figur", "Anzahl Sprechakte", 90)
     plot_style(keys_lines, values_lines, 10, 5,
                "Sprechakte pro Interaktion", "Häufigkeit", 0)
+    # also for exact same voice lines
+    plot_style(ex_place_x, ex_place_y, 10, 5,
+               "Ort der Interaktion", "Häufigkeit", 90)
+    plot_style(ex_type_x, ex_type_y, 10, 7,
+               "Art der Interaktion", "Häufigkeit", 90)
+    plot_style(ex_addressed_x, ex_addressed_y, 10, 7,
+               "Zuhörende Figur", "Anzahl gehörter Sprechakte", 90)
+    plot_style(ex_speaker_x, ex_speaker_y, 10, 7,
+               "Sprechende Figur", "Anzahl Sprechakte", 90)
+    plot_style(keys_ex_lines, values_ex_lines, 10, 5,
+               "Sprechakte pro Interaktion", "Häufigkeit", 0)
+
+    # write interaction lists into text file
+    with open(r'ex_interactions.txt', 'w') as f_ex:
+        for m in list_ex_interactions:
+            f_ex.write("%s\n" % m)
+    with open(r'interactions.txt', 'w') as f:
+        for n in list_interactions:
+            f.write("%s\n" % n)
 
     print("Das Hades Let's Play von Akuyaku enthält", len(text_ak_list), "Voicelines.")
     print("Das Hades Let's Play von Daelagor enthält", len(text_dl_list), "Voicelines.")
     print("Das Hades Let's Play von GraumenGaming enthält", len(text_gg_list), "Voicelines.")
     print(len(dupl_ak_dl_gg), "der Voicelines kommen in allen drei Let's Plays vor.")
     print("Diese Voicelines können in", len(list_interactions), "Interaktionen gegliedert werden.")
+    print(len(ex_dupl_gg_ak_dl), "der Voicelines kommen in der exakt gleichen Reihenfolge vor und können in",
+          len(list_ex_interactions), "Interaktionen gegliedert werden.")
