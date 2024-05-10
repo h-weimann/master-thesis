@@ -15,7 +15,7 @@
 ['Charon', 'Zagreus', 'nan', 'Gespräch', 'Tartaros', 1]
 ['Athene', 'Zagreus', 'nan', 'Gabe', 'Tartaros', 1]
 ['Megaira', 'Zagreus', 'nan', 'Boss', 'Tartaros', 5]
-['Hypnos', 'Zagreus', 'nan', 'Boss', 'Tartaros', 1]
+['Hypnos', 'Zagreus', 'nan', 'Gespräch', 'Thronsaal', 1]
 ['Zagreus', 'Hades', 'nan', 'Gespräch', 'Thronsaal', 4]
 ['Nyx', 'Hades', 'nan', 'Gespräch', 'Thronsaal', 1]
 ['Zagreus', 'Nyx', 'nan', 'Gespräch', 'Thronsaal', 1]

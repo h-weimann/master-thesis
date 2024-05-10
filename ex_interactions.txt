@@ -8,7 +8,7 @@
 ['Zeus', 'Zagreus', 'nan', 'Gabe', 'Tartaros', 1]
 ['Erzählinstanz', 'nan', 'nan', 'Erzählung', 'Tartaros', 1]
 ['Zagreus', 'Megaira', 'nan', 'Boss', 'Tartaros', 4]
-['Hypnos', 'Zagreus', 'nan', 'Boss', 'Tartaros', 1]
+['Hypnos', 'Zagreus', 'nan', 'Gespräch', 'Thronsaal', 1]
 ['Zagreus', 'Hades', 'nan', 'Gespräch', 'Thronsaal', 2]
 ['Nyx', 'Hades', 'nan', 'Gespräch', 'Thronsaal', 1]
 ['Zagreus', 'Nyx', 'nan', 'Gespräch', 'Thronsaal', 1]
