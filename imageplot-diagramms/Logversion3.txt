@@ -1,0 +1,72 @@
+xmax           = 99951
+xmin           = 1
+ymax           = 140
+ymin           = 10
+x_values_range = 99950
+y_values_range = 130
+==== Data Directories and Rendering ====
+Data File :  C:\Users\vinda\Documents\1_uni\01_masterarbeit\bilder\bildverzeichnis.txt
+Image Directory :  C:\Users\vinda\Documents\1_uni\01_masterarbeit\bilder/
+Render Mode :  during rendering
+Render Order :  Axes / Lines / Images+Labels
+Save each frame for animation (1 = true) 0
+
+==== Plot configs (1 = true) ====
+Plot Points :  0
+Plot Lines :  0
+Plot Images :  1
+Draw Image Frames :  0
+Blend Images :  0
+Smooth Resize :  0
+Fixed X Value :  0
+Fixed Y Value :  0
+Draw values next to dot (XY Value) :  0
+Draw series labels next to dot :  0
+Draw X Axis :  0
+Draw Y Axis :  0
+Draw Labels for X Axis :  0
+Draw Labels for Y Axis :  0
+Mutiple Data Series :  0
+Use column to determine ellipse width :  0
+Use column to determine ellipse height :  0
+Use fixed label step :  0
+Use label count to determine label step :  1
+
+==== Graph Config Variables ====
+Cavas Size : 40000 x 5000
+Graph Border :  50
+Image Resize Width :  100
+Point Size :  64
+Line Width :  4
+Label Font Size :  32
+Label Precision :  1
+Canvas Color Space :  RGB
+Ellipse Size : 10 x 10
+X scale :  0.3992
+Y scale :  37.6923
+Starting X Axis Value 0
+Ending X Axis Value 0
+Starting Y Axis Value 0
+Ending Y Axis Value 0
+Point Style To Plot :  Circle Filled
+
+==== Legend, Axis, Ticks, Labels ====
+Axis Label Font Size :  32
+Tick Mark Length :  30
+XY Axis Line Width :  10
+X Axis Label Step :  9995
+Y Axis Label Step :  13
+X Axis Label Count :  10
+Y Axis Label Count :  10
+Dmax :  1
+Data Series 1
+
+==== Colors(RGB) ====
+Color Scale(column color) :  1
+Points Color : 255,255,255
+Labels Color : 255,255,255
+Lines Color : 255,255,255
+Frames Color : 192,192,192
+Background Fill Color : 70,70,70
+Axis Color : 255,255,255
+Column Color : 255,255,255
