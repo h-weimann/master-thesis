@@ -100,6 +100,7 @@ if __name__ == '__main__':
     text_dl_list = df_dl["Text"].tolist()
     text_gg_list = df_gg["Text"].tolist()
 
+    # general information gathering about playthroughs
     # compare ak to dl
     dupl_ak_dl = compare_lines(text_ak_list, text_dl_list)
     # compare gg to ak and dl
