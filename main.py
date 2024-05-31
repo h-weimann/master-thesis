@@ -229,6 +229,13 @@ if __name__ == '__main__':
                "Sprecher*in", "Häufigkeit DL", 90)
     plot_style(speaker_x_gg, speaker_y_gg, 10, 7,
                "Sprecher*in", "Häufigkeit GG", 90)
+    # cross table type x speaker
+    ak_speaker_x_type = pd.crosstab(df_ak["Sprecher:in"], df_ak["Interaktionstyp"],
+                                    margins=True, margins_name="Gesamt")
+    dl_speaker_x_type = pd.crosstab(df_dl["Sprecher:in"], df_dl["Interaktionstyp"],
+                                    margins=True, margins_name="Gesamt")
+    gg_speaker_x_type = pd.crosstab(df_gg["Sprecher:in"], df_gg["Interaktionstyp"],
+                                    margins=True, margins_name="Gesamt")
 
     # INTERACTIONS IN EXACT SAME ORDER
     # compare both directions ak vs dl
