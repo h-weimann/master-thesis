@@ -229,13 +229,22 @@ if __name__ == '__main__':
                "Sprecher*in", "Häufigkeit DL", 90)
     plot_style(speaker_x_gg, speaker_y_gg, 10, 7,
                "Sprecher*in", "Häufigkeit GG", 90)
-    # cross table type x speaker
-    ak_speaker_x_type = pd.crosstab(df_ak["Sprecher:in"], df_ak["Interaktionstyp"],
-                                    margins=True, margins_name="Gesamt")
-    dl_speaker_x_type = pd.crosstab(df_dl["Sprecher:in"], df_dl["Interaktionstyp"],
-                                    margins=True, margins_name="Gesamt")
-    gg_speaker_x_type = pd.crosstab(df_gg["Sprecher:in"], df_gg["Interaktionstyp"],
-                                    margins=True, margins_name="Gesamt")
+    # get characters for nectar
+    ak_nektar_df = df_interactions_ak[df_interactions_ak["type"] == "Nektar"]
+    count_nektar_ak1 = ak_nektar_df["speaker"].value_counts()
+    count_nektar_ak2 = ak_nektar_df["addressed1"].value_counts()
+    dl_nektar_df = df_interactions_dl[df_interactions_dl["type"] == "Nektar"]
+    count_nektar_dl1 = dl_nektar_df["speaker"].value_counts()
+    count_nektar_dl2 = dl_nektar_df["addressed1"].value_counts()
+    gg_nektar_df = df_interactions_gg[df_interactions_gg["type"] == "Nektar"]
+    count_nektar_gg1 = gg_nektar_df["speaker"].value_counts()
+    count_nektar_gg2 = gg_nektar_df["addressed1"].value_counts()
+    print(count_nektar_ak1)
+    print(count_nektar_ak2)
+    print(count_nektar_dl1)
+    print(count_nektar_dl2)
+    print(count_nektar_gg1)
+    print(count_nektar_gg2)
 
     # INTERACTIONS IN EXACT SAME ORDER
     # compare both directions ak vs dl
@@ -329,9 +338,9 @@ if __name__ == '__main__':
 
     # check for specific interaction in data frame
     interaction_length = 6
-    interaction = df_interactions_gg[df_interactions_gg["no_lines"] == interaction_length]
-    print(interaction)'''
-    
+    interaction_check = df_interactions_gg[df_interactions_gg["no_lines"] == interaction_length]
+    print(interaction_check)'''
+
     # BARPLOTS
     plot_style(place_x, place_y, 10, 5,
                "Ort der Interaktion", "Häufigkeit", 90)
