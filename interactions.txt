@@ -1,5 +1,5 @@
 ['Erzählinstanz', 'nan', 'nan', 'Erzählung', 'nan', 2]
-['Zagreus', 'Athene', 'nan', 'Gabe', 'Tartaros', 1]
+['Zagreus', 'Athene', 'nan', 'Gabe', 'Tartaros', 2]
 ['Zagreus', 'Artemis', 'nan', 'Gabe', 'Tartaros', 2]
 ['Hypnos', 'Zagreus', 'nan', 'Gespräch', 'Thronsaal', 1]
 ['Hades', 'Zagreus', 'nan', 'Gespräch', 'Thronsaal', 2]

@@ -1,0 +1,241 @@
+Sprecher:in	Angesprochene:r 1	Angesprochene:r 2	Interaktionstyp	Ort	Text
+Erzählinstanz			Erzählung		Nur wenige Geschichten werden von Hades erzählt, dessen Name allein schon Angst und Buße erweckt und uns an das unabweichliche Schicksal erinnert, welches wir alle teilen.
+Erzählinstanz			Erzählung		Ich allerdings beabsichtige, euch solch eine Geschichte zu erzählen. Hört gut zu…
+Zagreus	Athene		Gabe	Tartaros	Das muss sie sein. Na dann, wird schon schiefgehen… Ähm. Im Namen von Hades! Olymp, ich nehme diese Botschaft an.
+Athene	Zagreus		Gabe	Tartaros	Sei gegrüßt, edler Vetter. Zeit, dass wir dich von diesem trostlosen Ort wegbringen. Ich sorge dafür, dass wir alle auf dem Olymp unseren Teil dazu beitragen. Und ich mache gleich den Anfang.
+Zagreus	Artemis		Gabe	Tartaros	Mir ist nur eine himmlische Bogenschützin bekannt. Nunja, eigentlich mehrere. Wie auch immer! Im Namen von Hades! Olymp? Ich nehme diese Botschaft an.
+Artemis	Zagreus		Gabe	Tartaros	Ich habe von dir gehört. Schau, ich bin nicht wie all die anderen auf dem Olymp. Die Macht der Jagd leistet mir ein wenig Gesellschaft, also… vielleicht hilft sie auch dir!
+Hades	Zagreus		Gespräch	Thronsaal	Geh nur. Was schert es mich? Du wirst die Oberfläche nie erreichen. Geh und überzeuge dich selbst.
+Nyx	Zagreus		Gespräch	Thronsaal	Erliege nicht der Verzweiflung , Kind. Derartige Rückschläge sind unvermeidbar und lassen sich mit etwas Mühe und Zeit überwinden. Du konntest Kontakt zur Göttin Athene aufnehmen. Sie wird ihr Wort halten
+Zagreus	Nyx		Gespräch	Thronsaal	Das glaube ich, Nyx. Ich bin dankbar, dass du uns in Kontakt gebracht hast. Ich weiß, dass du dabei ein großes Risiko eingegangen bist.
+Nyx	Zagreus		Gespräch	Thronsaal	Nicht ich bin einem Risiko ausgesetzt. Ich war davon ausgegangen, dass die Olympier sich irgendwann einmischen würden. Offenbare ihnen gegenüber nichts, was sie nicht bereits wissen. Haben wir uns verstanden?
+Achilles	Zagreus		Gespräch	Thronsaal	Schön, dich zu sehen, Junge, trotz der Umstände. Denk da draußen an dein Training. Der Todesschmerz ist ein Hindernis wie andere.
+Zagreus	Achilles		Gespräch	Thronsaal	Und Furcht ist für die Schwachen. Mach's gut, Achilles.
+Skelly	Zagreus		Gespräch	Hof	Nette Bude, Bursche! Der Name ist Skelly! Aber nun genug geplaudert, ich bin schließlich nicht zum Spaß hier. Also zeig mir, was du kannst! Gib alles, was du hast!!
+Zagreus	Skelly		Gespräch	Hof	Ich kann mich nicht daran erinnern, dich auf der Gehaltsliste zu haben, Kumpel. Wer ist dein Vorgesetzter?
+Skelly	Zagreus		Gespräch	Hof	Oh-hoh, ich verrate dir bestimmt nicht meine Quellen, Bursche. Du kannst aber gern versuchen, es aus mir rauszuprügeln!
+Zeus	Zagreus		Gabe	Tartaros	Sei gegrüßt, junger Mann! Dein Vater war schon immer ziemlich schwierig, und seit geraumer Zeit hat er sich nicht sehen lassen. Der Olymp ist für dich ein besseres Zuhause. Hier gehörst du hin, und mein Segen soll dir auf deiner Reise helfen.
+Erzählinstanz			Erzählung	Tartaros	In der Unterwelt des ehrwürdigen Hades, bestehend aus zahllosen, sich ständig verschiebenden verzahnten Kammern, verweilen die Toten ans Ende aller Tage.
+Zagreus	Megaira		Boss	Tartaros	Komm schon, Meg. Hatten wir nicht schon mehr als genug voneinander? Abgesehen davon, wirst du nicht gerade irgendwo anders gebraucht?
+Megaira	Zagreus		Boss	Tartaros	Dein Vater hat mich geschickt. Wenn ich es mir genau überlege, habe ich lieber dich zum Feind als deinen Vater. Sei vernünftig und dreh brav von selber um, oder ich schicke dich auf dem schmerzhaften Weg zurück nach Hause. Was darf's sein?
+Zagreus	Megaira		Boss	Tartaros	… Dann muss ich mich wohl für den schmerzhaften Weg entscheiden.
+Megaira	Zagreus		Boss	Tartaros	Ein Mann ganz nach meinem Geschmack.
+Hypnos	Zagreus		Gespräch	Thronsaal	Ooh, wow, also Megaira hat dich beim letzten Mal erwischt, das war gewiss heftig! Sie ist schnell und stark und schön und… ähm… egal, ich hoffe, die Schicksalsgöttinen sind nächstes Mal gnädiger mit dir!
+Zagreus	Hades		Gespräch	Thronsaal	Du versuchst, mir ein schlechtes Gewissen einzureden, damit ich die sündhaft teure Einrichtung bezahle, die dir vorschwebt.
+Hades	Zagreus		Gespräch	Thronsaal	Wenn wir irgendwann damit fertig sind, das von dir in meinem gesamten Reich angerichtete Blutbad zu richten, haben wir vielleicht endlich Zeit, die angestauten Renovierungen abzuschließen.
+Nyx	Hades		Gespräch	Thronsaal	Möge die Finsternis dich führen, Kind. Du bist diesem Haus entwachsen, dessen bin ich mir nun sicher. Solltest du erneut zurückkehren, werde ich dich schützen.
+Zagreus	Nyx		Gespräch	Thronsaal	Ich werde dich nicht vergessen, Nyx. Ich schwöre es.
+Aphrodite	Zagreus		Gabe	Tartaros	Hallo, hallo, kleiner Gott. Ich muss sagen, du bist schon ein Musterexemplar, daher habe ich beschlossen, dir vorerst behilflich zu sein. Bist du interessiert?
+Charon	Zagreus		Nektar	Tartaros	Hrrrnnnggghh, hnnnn….
+Zagreus	Charon		Nektar	Tartaros	Halt, ich erwarte keine Gegenleistung, es war doch ein Geschenk! Aber du bestehst darauf, nicht wahr.
+Zagreus	Charon		Gespräch	Tartaros	He, schön, dir hier draußen zu begegnen, Kumpel, und sieht so aus, als würdest du gute Waren zum Verkauf anbieten?
+Charon	Zagreus		Gespräch	Tartaros	Urrrnngghhhhh….
+Zagreus	Megaira		Boss	Tartaros	Deine Geißel hat sich in der Vergangenheit als nicht sehr überzeugend erwiesen.
+Megaira	Zagreus		Boss	Tartaros	Vielleicht macht sich Beharrlichkeit für uns beide bezählt. Fangen wir an.
+Zagreus	Sisyphos		Begegnung	Tartaros	Ach, ich mach nur einen Streifzug durch die Gegend, das ist alles. Aber könntest du mir einen Gefallen tun und den Erinyen ausrichten, falls du sie siehst, dass ich auf dem Weg zurückgehe, auf dem ich hergekommen bin?
+Sisyphos	Zagreus		Begegnung	Tartaros	Oh, ich werde es ihnen ausrichten, geht klar, ich höre dich laut und deutlich, eure Hoheit. Ich werde dann jetzt mal weitermachen, und du mach's gut.
+Aphrodite	Zagreus		Gabe	Tartaros	Du hast es mit Megaira, der Erinye, zu tun bekommen, oder? Oh, über die könnte ich dir so einiges erzählen. Seit einiger Zeit pflegen wir Olympier jedoch keinen Umgang mehr mit den Bewohnern der Unterwelt. Du bist die einzige Ausnahme!
+Zagreus	Charon		Gespräch	Tartaros	Charon, Kumpel, sagen wir mal ganz hypothetisch, ich würde dir tausend Münzen geben. Wärest du gewillt, mich in deinem herrlichen Boot zu befördern? Den Fluss hinauf, um genau zu sein.
+Charon	Zagreus		Gespräch	Tartaros	Nrrnnhhh, hnnnn, hrrnn, hrrrrrnnn…
+Zagreus	Megaira		Boss	Tartaros	Ich bin mir sicher, dass Vater all deine Kommentare begrüßen würde, Meg. Oder trachtest du vielleicht nach seinem Posten?
+Megaira	Zagreus		Boss	Tartaros	Ich beneide deinen Vater nicht um seine Position. Außerdem bin ich mit meinen Aufgaben vollends zufrieden.
+Erzählinstanz			Erzählung	Tartaros	In den Tiefen des Tartaros hausen die jämmerlichsten aller Schatten, die auf ewig in der Unterwelt verweilen. Deren Herr und Gebieter zeigt sich besonders grausam gegenüber jenen, die dem Tod ein Schnippchen schlagen wollen.
+Megaira	Zagreus		Boss	Tartaros	Was hast du eigentlich vor, Zagreus? Die Unterwelt ist versiegelt. Deine Versuche sind zum Scheitern verurteilt. Du hast gesehen, was passiert, wenn du dich zu weit vorwagst.
+Zagreus	Megaira		Boss	Tartaros	Dieser Ort kann nicht für immer versiegelt bleiben, Meg. Und bis dahin wollte ich schon mal etwas Übung bekommen.
+Megaira	Zagreus		Boss	Tartaros	Ich bin nicht dein Übungspartner, Narr.
+Hermes	Zagreus		Gabe	Asphodel	He, Boss, gut, dass ich dich gefunden habe. Hermes, zu deinen Diensten. Angenehm! Der ganze Olymp redet über dich! Normalerweise würd ich mich in nichts verwickeln lassen, doch für dich mach ich eine Ausnahme. Jetzt komm, wir beide haben noch was vor!
+Artemis	Zagreus		Gabe	Asphodel	Offensichtlich läuft die Jagd für dich bisher nicht besonders gut. Doch vielleicht können wir da noch etwas retten.
+Nyx	Hades		überhört	Thronsaal	Zweifele nicht meine Macht an, Hades. Es war zu erwarten, dass dein Sohn entdeckt würde, je mehr er sich der Oberfläche näherte. Die Olympier freuen sich über ihren entfernten Verwandten und heißen ihn auf ihrem Berg willkommen. Das ist alles. Ihr Einfluss ist sehr beschränkt.
+Hades	Nyx		überhört	Thronsaal	Blut und Finsternis! Erzähl mir bloß nichts von ihrem Einfluss! Ich habe ihren Einfluss am eigenen Leib erfahren. Du hast einen törichten Fehler gemacht.
+Nyx	Hades		überhört	Thronsaal	Du willst mir etwas von törichten Fehlern erzählen? Du kannst den Lauf der Dinge nicht aufhalten. Jeder Versuch ist zwecklos.
+Megaira	Zagreus		Gespräch	Salon	Tss. Der verlorene Sohn kehrt zurück…. Alle sagen, ich hätte dich mit Samthandschuhen angefasst.
+Zagreus	Megaira		Gespräch	Salon	Keine Sorge, Meg, ich bin dann schließlich doch auf schmerzhafte Weise nach Hause gekommen.
+Megaira	Zagreus		Gespräch	Salon	Schau mal, ich muss meinen Ruf bewahren. Wenn du nochmal so an mir vorbeikommst, wäre es besser, du gehst deinen Weg bis zum Ende. Jetzt lass mich in Ruhe, und glaube ja nicht, dass du bei unserer nächsten Begegnung wieder so viel Glück haben wirst.
+Dusa	Zagreus		Gespräch	Salon	Oh! Der Prinz persönlich, du, möchtest mit mir sprechen…? Mit mir?! Oh, wow, oh wow!!
+Dusa	Zagreus		Gespräch	Salon	Ichichichaaah, Ich muss die Dachsperren reinigen, ich…!
+Erzählinstanz			Erzählung	Tartaros	Wann immer der Prinz in die Unterwelt zurückkehrt, ordnen sich die sich ständig verschiebenden Kammern neu an, um seine Versuche, sie zu kartieren, zu vereiteln.
+Zagreus	Chaos		Gabe	Chaos	Das ist niemand den ich erkenne… also, im Namen von Hades! Ähm, hallo? Darf ich fragen, wer da spricht?
+Chaos	Zagreus		Gabe	Chaos	… Die Olympier sind alle milde geworden, … meinst du nicht auch?
+Zagreus	Chaos		Gabe	Chaos	Äh… sind wir uns schon begegnet?
+Chaos	Zagreus		Gabe	Chaos	Oh, begegnet sind wir uns, in gewisser Weise. Ich kenne jeden, hier und dort. Du möchtest diesen Ort verlassen? Dann wünsche ich, deine Reise ein wenig interessanter zu gestalten… und falls du eines Tages den Olympiern begegnest, richte ihnen meine Grüße aus.
+Zagreus	Sisyphos		Begegnung	Tartaros	Oh, irgendwas liegt zu Hause eigentlich immer im Argen, Herr. Ich dachte mir, es könnte nicht schaden, im Tartaros etwas häufiger als gewohnt nach dem Rechten zu sehen.
+Sisyphos	Zagreus		Begegnung	Tartaros	Nun, ich bin dankbar dafür und auch für den alten Felsblock da drüben. Ich bin ja daran gewöhnt, lange Zeit allein zu sein, aber ein paar Besucher von Zeit zu Zeit würden mir gut tun!
+Hypnos	Dusa		überhört	Thronsaal	Oh, äh, he, Dusa! Was gibt's Neues von deiner endlosen Plackerei?
+Dusa	Hypnos		überhört	Thronsaal	Um, Herr Hypnos, könntest du naja… vielleicht, du weißt schon, äh, ein Auge auf die Warteschlange vor dem ehrwürdigen Haus werfen? So wie es halt dein Job ist…?
+Hypnos	Dusa		überhört	Thronsaal	Oh! Ähm, kein Problem, ich kann das definitiv tun, ich schreibe es einfach auf die Liste!
+Dusa	Hypnos		überhört	Thronsaal	Ähm, okay! Gut, dass wir eine Chance zum Reden hatten. Jetzt schau vielleicht, dass du etwas Schlaf bekommst. Du siehst ziemlich erledigt aus…?
+Zagreus	Hades		Gespräch	Thronsaal	Ich weiß nicht, wie du es ertragen kannst.
+Hades	Zagreus		Gespräch	Thronsaal	Na, wenigstens ein paar Dinge laufen noch immer wie am Schnürchen. Wenn du das nächste Mal zum Sterben aufbrichst, grüße die gequälten Seelen da draußen herzlich von mir.
+Skelly	Zagreus		Gespräch	Hof	Ah, da bist du bei mir genau an der richtigen Stelle gelandet, Bursche! Deine üblen Waffen da hinten können dieses Zeug finden. Wenn du es durch den ganzen Tartaros mit einer dieser Waffen schaffst, dann hast du damit das ganze Blut ergattert, das es zu ergattern gibt! Vorläufig zumindest.
+Zagreus	Skelly		Gespräch	Hof	Und wie soll ich bitte schön nachvollziehen können, mit welchen Waffen ich das Zeug verdient habe?
+Skelly	Zagreus		Gespräch	Hof	Das weiß ich doch nicht, aber es gibt da diese großartige Erfindung, es sich einfach aufzuschreiben! Dir wird sicher was einfallen.
+Poseidon	Zagreus		Gabe	Tartaros	Ich muss dir ein Geständnis machen, Klein-Hades: Meine Verwandten und ich haben dir eine unsere [sic] größten Gaben vorenthalten!! Wir wollten zuerst sehen, ob du ihrer würdig bist. Und das bist du! Du kannst mit meiner Hilfe rechnen, also ruf mich, wenn du etwas brauchst! Besonders, wenn du deine Feinde in Stücke reißen willst.
+Sisyphos	Zagreus		Begegnung	Tartaros	Wenn ich es wagen darf, eure Hoheit. Ich frage mich nur… was dich erneut hierher führt? Dieselbe Geschichte wie letztes Mal?
+Zagreus	Sisyphos		Begegnung	Tartaros	Hör mal, ich will ehrlich mit dir sein, Sisyphos. Ich verlasse das Haus. Ich habe die Nase voll. Du verstehst das sicherlich. Ich gehe in die Oberwelt.
+Sisyphos	Zagreus		Begegnung	Tartaros	Puh, das ist aber ein ziemliches Unterfangen, Prinz. Wenn du es nicht selbst vorgeschlagen hättest, würde ich es reinen Wahnsinn nennen, um ehrlich zu sein. Allerdings hast du aber auch gerade das richtige Maß an Wahnsinn, um es durchzuziehen! Na, ich hoffe, dass du es schaffst, viel Glück da draußen.
+Zagreus	Charon		Gespräch	Tartaros	Sei ebenfalls gegrüßt, Kumpel! Dann lass uns mal einen Blick auf dein Angebot werfen, ja?
+Hypnos	Zagreus		Gespräch	Thronsaal	Es ist meist recht ruhig, wenn ich den Teich des Styx bewache. Aber in letzter Zeit ist schwer was los! Erst vorhin tauchte jemand unvermutet auf! Du glaubst nicht, wie ich dreinschaute, als ich merkte, dass das nicht du warst.
+Erzählinstanz			Gespräch	Thronsaal	Kerberos blickt traurig zum Prinzen hin.
+Zagreus	Hades		Gespräch	Thronsaal	Es ist nicht nötig, den Hund in die Sache hineinzuziehen, Vater.
+Hades	Zagreus		Gespräch	Thronsaal	Was auch immer du zu sagen hast, sag es vor Kerberos! Vielleicht färben seine Aufmerksamkeit und Gehorsam sogar auf dich ab!
+Erzählinstanz			Erzählung	Schlafzimmer Zagreus	Zu dieser Zeit ist alles still; der stets träumende Hypnos hat das Haus mit einem Zauber belegt, worum der eigensinnige Zagreus ihn gebeten hatte. Alle schlafen tief und fest, bis auf den Prinzen. Alles läuft genau nach Plan.
+Erzählinstanz			Erzählung	Thronsaal	Er nähert sich dem imposanten Thron seines ehrwürdigen Vaters, halb erwartend, ertappt zu werden, doch rechnet nicht mit dem, was ihn erwartet.
+Erzählinstanz			Erzählung	Thronsaal	Er weiß nicht genau, wonach er sucht. Er weiß nur, dass ihm schon immer etwas seltsam vorkam, dass er nicht dazugehört. Wer ist er in Wirklichkeit? Der ehrwürdige Hades verschloss sich solchen Fragen. Also würde Prinz Zagreus es selbst herausfinden.
+Erzählinstanz			Erzählung	Thronsaal	Er durchstöbert den Besitz seines ehrwürdigen Vaters. Viel von Bedeutung ist da nicht. Bücher und Verwaältungsunterlagen. Briefe von Olymp, die unbeantwortet geblieben sind. Kein Hinweis auf seinen Sohn, nicht die kleinste Spur.
+Erzählinstanz			Erzählung	Thronsaal	Aber da ist dieser Zettel… in einer Handschrift so schön, wie sie der Prinz noch nie zuvor gesehen, und in einem Ton so fein, den er noch nie zuvor vernommen hat.
+Persephone	Hades		Brief von Persephone	Thronsaal	Hades: ich halte das Leben an diesem Ort nicht länger aus. Also gehe ich, auch wenn es mich umbringt. Ich kehre nicht auf den Olymp zurück. Wenn es in dieser Welt einen Ort gibt, an den ich hingehöre, muss er irgendwo zwischen Himmel und Hölle liegen. Vielleicht an der Küste, mit einem kleinen Garten. Kümmere dich um Kerberos, ich werde ihn vermissen. -Persephone
+Erzählinstanz			Erzählung	Thronsaal	Und so nahm der Prinz der Unterwelt Zagreus die Worte dieses verborgenen Briefes, geschrieben in der Handschrift seiner Mutter, in sich auf.
+Zagreus			Gespräch	Thronsaal	Der Handschrift seiner Mutter, der Handschrift meiner Mutter, Moment mal, was? Willst du damit sagen, dass diese Persephone, dass sie… meine Mutter ist? Aber Vater hat doch immer gesagt, dass Nyx meine… dieser Lügner. Er hat mich angelogen, beide haben mich getäuscht. Mein ganzes Leben lang!
+Erzählinstanz			Erzählung	Thronsaal	Ähm, und so erfuhr der Prinz versehentlich von dem wohlbehüteten Geheimnis um seine Abstammung. Purer Zufall, möchte man meinen.
+Erzählinstanz			Erzählung	Thronsaal	Persephone… einst die Königin der gesamten Unterwelt… wohin ist sie gegangen, und warum? Vor Wut schäumend, beschloss der Prinz, seinen Herrn und Gebieter mit vielen neuen Fragen zu konfrontieren, die sich aus seinem Fund ergaben.
+Zagreus	Nyx		Gespräch	Thronsaal	Du… du bist… Nyx, du bist nicht meine Mutter. Du und Vater, ihr habt mich die ganze Zeit... angelogen?
+Nyx	Zagreus		Gespräch	Thronsaal	Oh, mein liebes Kind… du weißt es jetzt also…? Du weißt es jetzt also. Aber nur die halbe Wahrheit. Ich kann den Rest erklären, also, bitte…. Es war nie mein Wunsch, dich zu verletzen.
+Zeus	Zagreus		Gabe	Tartaros	Du bist also der Sohn von Hades und dieser Nyx, Göttin der Nacht, ist das richtig, Neffe…? Nun ja, von allen, die dein ehrwürdiger Vater dort unten finden konnte, kommt sie wohl einer Königin am nächsten. Ich hab versucht, ihn mit vitaleren Damen zu verba
+Zagreus	Charon		Gespräch	Tartaros	He, Charon, falls mich hinter dieser Tür da drüben etwas wirklich Fürchterliches erwartet, dann… gib mir ein Zeichen, ja?
+Charon	Zagreus		Gespräch	Tartaros	Hhaaaaaaaaahhh….
+Zagreus	Megaira		Boss	Tartaros	Hoffnung habe ich genug. Nicht, dass es dich noch etwas angehen würde.
+Megaira	Zagreus		Boss	Tartaros	Deine eigene Familie ist hier unten. Und damit auch deine Pflichten. Du fliehst vor dir selbst. Aber ich kann es dir gerne schwerer machen.
+Hermes	Zagreus		Gabe	Asphodel	Was ist los, Vetter? Darf ich dich so nennen? Hab was für dich, womit du deine Kämpfe auf Leben und Tod eindeutig schneller zu Ende bringen kannst!
+Zagreus	Eurydike		Begegnung	Asphodel	Hallo! Förmlichkeiten sind nicht nötig. Ich heiße Zagreus. Bin auf dem Weg zu einem Ortstermin. An der bedrohlichen Knochen-Hydra vorbei. Möchte nicht unhöflich sein, aber ich bin in Eile.
+Eurydike	Zagreus		Begegnung	Asphodel	Na, du hast wohl alle Hände voll zu tun, mein Lieber! Ich werde dich ziehen lassen, aber in meinem Haus gibt es eine Regel, und zwar: Niemand geht mit leeren Händen, verstanden? Dann such dir was aus, du bist eingeladen!
+Asterios	Zagreus		Boss	Elysion	Du kommst aus den Eingeweiden der Hölle. Du gehörst nicht hierher.
+Zagreus	Asterios		Boss	Elysion	Ich stimme dir in beiden Punkten zu. Ich bin nur auf der Durchreise. Wenn du mich also bitte entschuldigen würdest…
+Asterios	Zagreus		Boss	Elysion	Das werde ich nicht. <Schnauben> Der Recke des Elysions würde vor so einem Wettkampf nicht zurückschrecken. Und das werde auch ich nicht.
+Zagreus	Megaira		Gespräch	Salon	Reizend. Nun, dann werde ich dich nicht weiter stören.
+Skelly	Zagreus		Gespräch	Hof	Kleiner Tipp, Bursche? Wenn du da draußen Münzen findest, solltest du sie direkt beim alten Charon, dem Fährmann, in Waren umsetzen. Gib sie am besten immer gleich aus und horte sie nicht, Bursche, sonst sind sie weg.
+Zagreus	Skelly		Gespräch	Hof	Danke, Kumpel. Merke: Immer alles gleich ausgeben, statt zu sparen.
+Charon	Zagreus		Gespräch	Tartaros	Urrraaauuhggghh….
+Hades	Nyx		überhört	Thronsaal	Daran musst du mich nicht erinnern. Sicher würden all diejenigen, die einst meinen Brüdern und mir trotzten, eine Aufgabe in meinem Haus einer Ewigkeit in den tiefsten Abgründen des Tartaros vorziehen. Nicht, dass die Finsternis dort dich anfechten würde.
+Megaira	Zagreus		Gespräch	Salon	Wir sind ein bisschen überfordert, wie du siehst. Dort droben findet irgendein Krieg statt, und folglich gibt es mehr Arbeit als sonst. Ich halte hier die Stellung. Und kümmere mich um dich.
+Skelly	Zagreus		Gespräch	Hof	Keine Ahnung! Es hat jedenfalls nichts mit deinen Infernalen Waffen zu tun. Und wie ich höre, hast du zu einigen von denen immer noch keinen Zugang?
+Zagreus	Sisyphos		Begegnung	Tartaros	Weißt du, alles in allem nicht schlecht. Hin und wieder sterbe ich, und es ist anstrengend, aber, he, was will man machen.
+Sisyphos	Zagreus		Begegnung	Tartaros	Ah, na ja, dann halt die Ohren steif. Also, ich habe meine Fluchtversuche von hier schon vor langer Zeit aufgegeben. Aber wenn ich deine Jugend und deine brennenden Füße hätte, dann hätte ich vielleicht weitergemacht.
+Erzählinstanz			Erzählung	Asphodel	Aus einer einfachen Bleibe in Asphodel dringt die liebliche Stimme der verlassenen Eurydike, die einst versuchte, der Unterwelt zu entkommen, und kläglich scheiterte, ähnlich wie Zagreus.
+Zagreus	Hades		Gespräch	Thronsaal	Klar, mache ich gern. Ich frage einfach den Baumeister, da du zu viel zu tun hast.
+Nyx	Zagreus		Gespräch	Thronsaal	Das gedenke ich ebenfalls. Dann soll es geschehen, wie du es dir wünscht.
+Erzählinstanz			Erzählung	Chaos	In dem stillsten, einsamsten, dunkelsten Abgrund der Unterwelt versteckt sich der Nachweis auf den Beginn aller Dinge, von auf Chaos! Der uralte Bildhauer, welcher dieser Welt Form verlieh.
+Orpheus	Zagreus		Gespräch	Thronsaal	Oh, sei gegrüßt, Zagreus. Wie ich höre. Hast du mich von meiner ewigen Strafe befreit. Drum bin ich hierher zurückgekehrt und diene nun deinem Vater. Danke.
+Zagreus	Orpheus		Gespräch	Thronsaal	Orpheus, du bist zurück! Solange du dich nicht bei Vater unbeliebt machst, musst du dir keine Sorgen machen. Außerdem… im Augenblick ist er, glaube ich, wütender auf mich.
+Orpheus	Zagreus		Gespräch	Thronsaal	Das betrübt mich, mein Freund. Aber falls du gekommen bist, um mich um ein Lied zu bitten, muss ich die gleiche Antwort wie immer geben.
+Zeus	Zagreus		Gabe	Tartaros	Als wir von der Göttin Nyx von deiner Existenz und Not erfuhren, versammelten wir uns auf dem Olymp, um dich nach besten Kräften zu unterstützen. Eine Familie wie die meine schützt die Ihrigen!
+Alekto	Zagreus		Boss	Tartaros	… Ich habe es so satt, weißt du. Ich möchte eigentlich nur meinen normalen Aufgaben nachgehen, ohne ständig dabei unterbrochen zu werden. Mal nicht das von Meg hinterlassene Chaos aufräumen zu müssen.
+Zagreus	Alekto		Boss	Tartaros	Irgendwie haben wir einen schlechten Start erwischt.
+Alekto	Zagreus		Boss	Tartaros	Egal. Ich wollte schon immer einen Gott töten. Du musst erst mal reichen.
+Artemis	Zagreus		Nektar	Asphodel	He, danke, das ist aber nett. Ich habe auch was für dich, genau das Richtige. Nur ein Geschenk, OK?
+Erzählinstanz			Erzählung	Elysion	Lethe, der verschleierte Fluss des Vergessens, der die heiligen Gemächer des Elysions durchströmt, betäubt alten Schmerz und Erinnerungen der edlen Schatten die dort hausen.
+Achilles	Zagreus		Gespräch	Thronsaal	Bitte, ich muss darauf bestehen. Ich möchte, dass du dich mehr für Geschichte interessierst und nicht nur für die Kriegskunst. Außerdem kannst du ihn vielleicht zu Ende schreiben.
+Orpheus	Hades		überhört	Thronsaal	… Du riefst nach deinem ergebenen Hofmusikanten, ehrwürdiger Hades, Herr? Damit meine ich natürlich mich.
+Hades	Orpheus		überhört	Thronsaal	Nun, Orpheus… Wenn du jetzt genug von deinem kleinen Abstecher in die Abründe des Tartaros hast, würde ich dich gern noch einmal bitten: Spiele uns ein Lied. Oder ich werde das nächste Mal bei deiner Bestrafung nicht mehr so viel Milde walten lassen.
+Orpheus	Hades		überhört	Thronsaal	Oh, ach so. Ich muss mich erneut entschuldigen, ehrwürdiger Hades, Herr. Denn leider verspüre ich noch nicht wieder den Wunsch, zu singen. Trotz deiner Überredungskunst. Und das, ähm, ist mein letztes Wort zu diesem Thema. Vorläufig.
+Hades	Orpheus		überhört	Thronsaal	Ist das so…? Dann werde ich wohl warten. Ich habe alle Geduld der Welt.
+Tisiphone	Zagreus		Boss	Tartaros	Mmmm… Mmmörder…
+Zagreus	Tisiphone		Boss	Tartaros	He, du musst eine von Megs Schwestern sein. Nett, dich endlich kennenzulernen! Ich heiße Zagreus. Nicht Mörder. Ganz gewiss nicht.
+Tisiphone	Zagreus		Boss	Tartaros	Mörder… Mmmmörderrrrrrrr…!
+Zagreus	Tisiphone		Boss	Tartaros	Äh,… also ich habe vielleicht ein paar Dinge getan, auf die ich nicht unbedingt stolz bin, aber ich bin mir absolut sicher, dass ich niemanden ermordet habe.
+Tisiphone	Zagreus		Boss	Tartaros	Mmmmmörderrrrrrrr…!
+Chaos	Zagreus		Gabe	Chaos	Du musst deinen Weg gestalten, wie du es für richtig hältst, was die Schicksalsgöttinnen auch immer für dich planen. Wir können diesem Weg gemeinsam ein paar Windungen verleihen, wenn du das möchtest.
+Orpheus	Zagreus		Gespräch	Thronsaal	Oh, sei gegrüßt, Zagreus. Du siehst etwas bedrückt aus. Wie ist es, würdest vielleicht jetzt gern ein Lied hören?
+Orpheus	Zagreus		Gespräch	Thronsaal	Oh, auf jenes Lied hast du Lust. Leider bringe ich es nicht mehr übers Herz, es anzustimmen. Es freut mich jedoch, dass es dir gefällt.
+Zeus	Zagreus		Gabe	Elysion	Wie ich sehe, ist es dem Fährmann der Unterwelt gelungen, dir meinem [sic] Segen zu überbringen, Neffe. Welch seltsame Bündnisse wir heutzutage schmieden!
+Erzählinstanz			Erzählung	Treppe zum Tempel	Endlich hat der eigensinnige Prinz es bis nach oben zum Reich der Sterblichen geschafft, doch steckt er noch immer in der Erde fest, am Zugang in die Unterwelt, einer Schwelle, von der es kein Entkommen gibt.
+Erzählinstanz			Erzählung	Tempel des Styx	Der mehrköpfige Kerberos steht wachsam vor dem Eingang zur Unterwelt. Über das grausame Schicksal all der Törichten, die versuchen, sich an ihm vorbeizuschleichen, soll der Mantel des Schweigens gehüllt werden.
+Zagreus	Kerberos		Gespräch	Tempel des Styx	Wie konnte es nur dazu kommen, mein Hündchen? Nach allem, was wir durchgemacht haben. Aber wenn es so sein muss, dann gibt es nichts mehr zu sagen. Außer: Aufgepasst!!
+Zagreus	Kerberos		Gespräch	Tempel des Styx	Hahaha, nein, aber ernsthaft, Hündchen. Ich weiß, warum du hier bist. Es muss doch eine Möglichkeit geben, dich zum Wegschauen zu bewegen. Würdest du mich ziehen lassen, wenn ich dir mit dem Satyr-Probleme [sic] helfe? Bitte. Ich muss Mutter finden. Du weißt, was mir das bedeutet.
+Erzählinstanz			Gespräch	Tempel des Styx	Nach kurzem Zögern und Nachdenken bellt der gefräßige Höllenhund einmal zustimmend, und der Prinz macht sich auf die Suche nach etwas, mit dem er den Appetit des Monsters stillen kann.
+Zagreus	Kerberos		Gespräch	Tempel des Styx	So, mein Hündchen, ich habe hier deinen liebsten Leckerbissen für dich. Aber du musst mir versprechen, mich durchzulassen, wenn ich ihn dir gebe, ja?
+Erzählinstanz			Gespräch	Tempel des Styx	Kerberos nimmt den übelriechenden Sack an und sucht im dunklen Saal nach einem Plätzchen, wo er den ekligen Inhalt in Ruhe fressen kann.
+Hades	Zagreus		Boss	Oberfläche	… Ich konnte mich nie an die Luft hier oben gewöhnen. Diese Böen wehen sinnlos aus allen Himmelsrichtungen, wie es ihnen gerade gefällt. Ich vermute, dir gefallen diese Böen hier oben besser als die stille Luft da unten.
+Zagreus	Hades		Boss	Oberfläche	Ja, du hast recht. Die Luft hier oben sagt mir bisher zu. Aber ich behalte mir mein endgültiges Urteil noch so lange vor, bis ich genug davon hatte. Aber eines muss ich dir sagen, Vater: Der Helm der Finsternis steht dir gut. Ich bin gerührt, dass du ihn meinetwegen wieder hervorgekramt hast.
+Hades	Zagreus		Boss	Oberfläche	Es hätte nicht so weit kommen müssen. Trotz all deiner Eskapaden im Haus und mir gegenüber habe ich nie die Beherrschung verloren. Ganz im Gegensatz zu dir.
+Zagreus	Hades		Boss	Oberfläche	Dann wollen wir mal sehen. Du hast mich immer gescholten. Du hast mich belogen. Du hast deine elenden Truppen antreten lassen, und mir immer wieder nach dem Leben zu trachten. Aber eines muss ich dir wirklich lassen: Du hast deinen Ärger größtenteils unter Kontrolle gehalten. Aber das wird sich wohl in Kürze ändern, oder?
+Hades	Zagreus		Boss	Oberfläche	Wir sind Götter, Junge. Uns gegenseitig zu töten, ist unser Los. Obwohl ich immer dachte, dass ich darüber stünde. Ich habe dir doch gesagt, dass du diesem Ort nicht entfliehen kannst. Scheinbar muss ich meine Regeln selbst durchsetzen. Ich schicke dich jetzt zurück nach Hause.
+Nyx	Zagreus		Gespräch	Thronsaal	Dein Vater ist nicht hier, und du bist zurück. Das kann nur eines bedeuten. Geht es dir gut, mein Kind?
+Zagreus	Nyx		Gespräch	Thronsaal	Ja, ich glaube schon, Nyx. Aber dass ausgerechnet Vater mich hierher zurückbefördert hat, ist besonders schmerzlich. Hast du wertvolle Tipps, wie ich ihn bezwingen könnte? Hat er verborgene Schwächen, die nur du kennst, oder dergleichen?
+Nyx	Zagreus		Gespräch	Thronsaal	Du kennst seine Schwächen besser als jeder andere. Besser sogar als er selbst. Es schmerzt mich, zu wissen, dass der Konflikt zwischen euch beiden nicht auf andere Weise beigelegt werden konnte. Aber wenn es denn sein muss… vernichte ihn für mich, bei deinem nächsten Kampf da oben. Egal, wie lange es dauert. Würdest du das bitte tun?
+Achilles	Zagreus		Gespräch	Thronsaal	Gib nicht auf, Junge. Ich habe nicht deinen Vater trainiert, sondern nur dich. Er ist ein Gott, aber er ist auch nur ein Gott. Wenn ich das ein bissschen verräterisch sagen darf.
+Zagreus	Skelly		Gespräch	Hof	Beruhige dich, Skelly. Ich bin mir sicher, dass das für eine legendäre, fast schon empfindungsfähige, seit dem Anbeginn der Zeit existierende Waffe, mit der die Titanen getötet wurden, völlig normal ist.
+Skelly	Zagreus		Gespräch	Hof	Mehr war da nicht! Deine Waffen sind schon ganz schön zum Einsatz gekommen, Bursche. Du nimmst sie wirklich hart ran, deshalb mögen sie dich vielleicht sogar. Sie haben sich ein bisschen locker gemacht, verstehst du? So wie du und ich!
+Demeter	Zagreus		Gabe	Tartaros	Ich höre, junger Zagreus, dass du jene bittere Dunkelheit gegen diese bittere Kälte tauschen würdest? Ehrlich gesagt, versteh ich nicht, warum. Doch ich steh dir bei in deiner Not, warum auch nicht? Denn ich habe jede Menge Hilfe anzubieten, und du wirst sicher bald Gefallen daran finden.
+Megaira	Zagreus		Boss	Tartaros	Du hast ja keine Ahnung. Es gibt einen guten Grund dafür, dass sie keinen Zutritt mehr im Haus haben. Aber das bringt mich zurück zum Thema. Los! Einer von uns muss jetzt zurück nach Hause.
+Asterios	Zagreus		Boss	Elysion	Du bist bereits auf den Recken getroffen, den König. Mal sehen, ob du es mit ihm erneut aufnehmen kannst.
+Zagreus	Asterios		Boss	Elysion	Du meinst wohl, mit euch beiden zusammen. Was mir nicht sehr gerecht erscheint.
+Asterios	Zagreus		Boss	Elysion	Das Leben ist eben nicht besonders gerecht, Knirps. Und auch nicht der Tod. Ich hätte eigentlich erwartet, dass du das weißt. Aber hier hast du deinen gerechten Kampf.
+Theseus	Zagreus	Asterios	Boss	Elysion	Schweig, du Ungeheuer! Ich höre mir derartige verruchte Lügen, Halbwahrheiten und Viertelwahrheiten nicht mehr länger an! Du sollst jedoch schon bald meinen gesegneten Speer zu hören bekommen! Besonders das Geräusch, das er macht, wenn er sich in deine entblößte Bauchgegend bohrt! Verteidige dich!
+Erzählinstanz			Erzählung	Tempel des Styx	Nur der riesige Tempel des Styx mit seinen unzähligen Gefahren trennt den Prinzen der Unterwelt nun noch vom Land da draußen, nach dessen Anblick er sich sehnt.
+Erzählinstanz			Erzählung	Tempel des Styx	Kerberos nimmt den Sack erneut an.
+Zagreus	Hades		Boss	Oberfläche	Nein. Keine jammervollen Reden. Und jetzt geh mir aus dem Weg.
+Megaira	Dusa		überhört	Salon	Du stehst mir wesentlich näher als meine Schwestern, Dusa. Ich bin nicht immer mit dem Ehrwürdigen Hades einer Meinung, aber ich bin dankbar, dass sie dieses Haus nicht betreten dürfen.
+Nyx	Zagreus		Gespräch	Thronsaal	Du bist vor ihnen verhüllt, Kind. Zu deinem eigenen Besten und zu ihrem. Sie wissen gerade genug, um zu helfen. Und ich hoffe, dass sie ihre Hilfe gewähren werden, solange du sie brauchst. Sie sind als Familie aneinander gebunden. Und sie wissen, dass du Hilfe brauchst. Sei nicht zu stolz, sie anzunehmen.
+Zagreus	Skelly		Gespräch	Hof	Also, pass auf deinem Weg durch die Unterwelt auf diese abgefahren [sic] Leuchttypen auf. Ist vermerkt.
+Chaos	Zagreus		Gabe	Chaos	Da wir nun Bekanntschaft schließen, Sohn des Hades, will ich eines ganz deutlich sagen: Ich fürchte, für Gespräche fehlt mir die Geduld. Bitte beschränke dich bei deinen Besuchen auf das Zuhören, dann nimm mein Zeichen an, und dann entferne dich. Antworte nur, wenn es sein muss. Oder wenn du aufgefordert wirst. Ja?
+Zagreus	Chaos		Gabe	Chaos	… Einfach zuhören. Genau das tue ich auch, wenn ich diese Botschaften von den Olympiern empfange. Moment, ihr habt mich doch gerade aufgefordert, Gebierter Chaos, nicht wahr? Oder hätte ich jetzt schweigen sollen?
+Chaos	Zagreus		Gabe	Chaos	Ich kann dir keinen Rat geben. Doch du wurdest aufgefordert, ja. Du darfst dann offen sprechen, oder auch jederzeit, trotz meines Wunsches, das nicht zu tun. Generell bevorzuge ich absolute Stille. Du magst das anders sehen.
+Zagreus	Alekto		Boss	Tartaros	Ich wünschte, du könntest mich begleiten, Alekto. Möchtest du, dass ich bei Vater nächstes Mal ein gutes Wort für dich einlege, damit du uns zu Hause besuchen kommen kannst?
+Alekto	Zagreus		Boss	Tartaros	Ach, weißt du, da lasse ich mir lieber die Augen ausstechen. Aber vielen Dank für das Angebot! Jetzt ist es Zeit für dich, nach Hause zu gehen.
+Zagreus	Orpheus		Gespräch	Thronsaal	Schau mal, falls du beschließt, deine Leier wieder erklingen zu lassen, dann wird hier gewiss niemand etwas dagegen einzuwenden haben. Aber pass auf dich auf, ja?
+Erzählinstanz			Erzählung	Elysion	In den filigranen Bauten des Elysions gibt es Orte vollkommener Stille und Reinheit, wie sie das Geschlecht der Sterblichen im Laufe seines kurzen und oft mühseligen Daseins nur selten findet.
+Theseus	Zagreus	Asterios	Boss	Elysion	Nun, Ausgeburt der Hölle, du hast beim letzten Kampf hier meine Ehre befleckt. Aber wie du deutlich sehen kannst, bin ich zurückgekehrt! Genau wie Asterios! Und wir haben genug Ehre übrig!
+Zagreus	Theseus	Asterios	Boss	Elysion	Sollte nicht ich der Recke des Elysions sein, nun, da ich dich besiegt habe? Gibt es denn niemanden mehr hier, der mich herausfordern möchte? Was ist mit Herakles? Jemand der nicht so viel plaudert wie du?
+Theseus	Zagreus	Asterios	Boss	Elysion	Ah, hahaha, sehr gerissen, Schuft. Den Namen von Herakles zu beschwören, in dem Bestreben, mich vor Neid zur Raserei zu veranlassen. Das wird nicht funktionieren! Du wirst dennoch teuer dafür bezahlen!
+Nyx	Hades		überhört	Thronsaal	Hades, meine Beziehung zu ihm bleibt unverändert. Es ist die gleiche Beziehung seit damals, als du mich batest, mich um ihn zu kümmern. Er hat meine volle Unterstützung, jetzt und immerdar. Das musst du dich wissen. Er möchte jetzt gehen. Ich werde keinen Versuch machen, ihn davon abzuhalten.
+Hades	Nyx		überhört	Thronsaal	Tss. Was nützt ihr alle schon? Es ist nicht einmal dein Sohn, und doch verhätschelst du ihn. Du weißt ebenso gut wie ich, dass er keinen Erfolg haben wird. Du füllst seinen Kopf mit gefährlichen Trugbildern. Wenn es das ist, was du für ihn willst, nur zu! Nur weiter so.
+Skelly	Zagreus		Gespräch	Hof	Keine Chance, Bursche! Ich werde fürs Einstecken bezahlt, und nicht fürs Austeilen! Jetzt zeig's mir schon!!
+Chaos	Zagreus		Gabe	Chaos	Sohn des Hades, ich glaube, mir ist etwas klar geworden, das ich längst erkannt haben sollte. Deine Mutter muss die sein, die sich Persephone nannte. Ihr Aufenthalt in der Unterwelt war von kurzer Dauer, aus meiner Sicht, nichtsdestotrotz von großer Wirkung. Du suchst nach ihr? Antworte.
+Zagreus	Chaos		Gabe	Chaos	Das tue ich. Sie ist irgendwo in der Oberwelt. Deshalb suche ich immer wieder eure Nähe. Ich versuche, sie zu finden.
+Chaos	Zagreus		Gabe	Chaos	Ich hoffe, dass deine Versuche von Erfolg gekrönt sein werden. Sie ist zurzeit für meine Sinne unerreichbar, doch natürlich kann ich dir trotzdem auf deiner Reise beistehen.
+Tisiphone	Zagreus		Boss	Tartaros	Mord…? Mord, Morrrd…!
+Zagreus	Tisiphone		Boss	Tartaros	Ich hatte wirklich gehofft, wir könnten das Thema wechseln. Bitte!
+Tisiphone	Zagreus		Boss	Tartaros	Möörder… Mööörrder!
+Orpheus	Achilles		überhört	Thronsaal	… Du bist viel zu bescheiden, ehrwürdiger Achilles, wo du doch so zahlreiche Heldentaten und Enthauptungen vollbracht hast! Du solltest dir ein Beispiel am ewig prahlenden Zagreus nehmen und mehr Aufhebens um dich machen!
+Achilles	Orpheus		überhört	Thronsaal	Oh, keine Sorge, Orpheus, ich habe zu meiner Zeit reichlich geprahlt. Und wo bin ich zum Schluss gelandet? Außerdem ist es mir nicht gegeben, so fantastische Geschichten wie unser Prinz Zagreus zu erfinden.
+Asterios	Zagreus	Theseus	Boss	Elysion	Wir sind bestens ausgerüstet, um mit dir fertig zu werden, Knirps. Doch ich weiß, dass man deine Macht nicht unterschätzen darf.
+Zagreus	Megaira		Gespräch	Salon	Ich wollte nur kurz nach dir schauen… sag einfach Bescheid, falls du reden möchtest, aus irgendeinem Grund.
+Megaira	Zagreus		Gespräch	Salon	Mir liegt nichts an Gesellschaft, und ganz besonders nicht an der deinen. Halte dich fern von mir, wenn ich außer Dienst bin.
+Skelly	Zagreus		Gespräch	Hof	He, du bist ziemlich stark geworden, Bursche! Auch wenn ich dafür bezahlt werde, dir das zu erzählen! Allerdings werde ich nicht dafür bezahlt, dir letzteres zu verschweigen.
+Zagreus	Skelly		Gespräch	Hof	Ich muss dich etwas fragen, Kumpel. Für was brauchst du eigentlich deinen Sold.
+Skelly	Zagreus		Gespräch	Hof	Das, Bursche, geht außer mir niemanden etwas an! Außerdem ist es unhöflich, ständig über Geld zu reden! Und nun darfst du mich wieder zu Brei schlagen.
+Tisiphone	Zagreus		Boss	Tartaros	Mmm… Mmm…. Mmmrrrr….!
+Zagreus	Tisiphone		Boss	Tartaros	Lass mich raten. Mord? Oder vielleicht Mörder? Eins von beiden.
+Tisiphone	Zagreus		Boss	Tartaros	Mmm, Mmmord… Mmord!!
+Zagreus	Patroklus		Begegnung	Elysion	Ich bin nur auf der Durchreise. Du wirkst weniger kriegerisch als die anderen. Darf ich fragen, wie du heißt, Herr? Ich heiße Zagreus.
+Patroklus	Zagreus		Begegnung	Elysion	Namen sind Schall und Rauch. Du solltest nicht hier sein. Mögen die Schicksalsgöttinnen deiner Reise ihr Wohlwollen schenken. Aber falls sie das nicht tun, hier. Nimm dies.
+Theseus	Zagreus	Asterios	Boss	Elysion	Ausgeburt der Hölle! Du willst dich also bis an die Oberfläche in das Reich der Lebenden durchkämpfen. Aber du wirst dein Ziel nicht erreichen, solange ich noch lebe und atme! Oder dem, was dem Leben und Atmen hier in der Pracht des Elysions entspricht!
+Zagreus	Theseus	Asterios	Boss	Elysion	Dann bleibt mir keine andere Wahl, als dich zum Schweigen zu bringen. Und auch deinen stierköpfigen Diener hier.
+Theseus	Asterios	Zagreus	Boss	Elysion	Dieser Minotauros, von dem du sprichst, ist mein treuer Freund, du Schandfleck der Erde! Asterios und ich sind Brüder hier im Tod, so wie wir Feinde im Leben waren. Nicht, dass du eine derart starke brüderliche Bande wie die unsere jemals verstehen würdest!
+Chaos	Zagreus		Gabe	Chaos	Du bist inzwischen vielen der Olympiern begegnet. Alle bestärkten dich darin, den Weg auf ihren Gipfel anzutreten. Auf Familienbande halten sie sehr viel, doch keiner von ihnen weiß mehr, wer ich bin. Setze nicht zu viel Vertrauen in sie, oh Sohn des Hades.
+Theseus	Zagreus	Asterios	Boss	Elysion	Oh, ich bin im Moment vollkommen wachsam, Asterios! Und wäre ich noch am Leben, würde ich geradezu danach lechzen, diese Pustel mit meinem Speer oder womit auch immer zu durchbohren! Dann mal los!
+Erzählinstanz			Erzählung	Tempel des Styx	Der weithin gefürchtete und vielköpfige Kerberos, Hüter der Unterwelt, bewacht den Eingang in dieses Reich und verschlingt jeden, der töricht genug ist, einen Fluchtversuch zu wagen.
+Erzählinstanz			Erzählung	Tempel des Styx	Der gigantische Kerberos nimmt die widerliche Gabe des Prinzen an.
+Zagreus	Theseus	Asterios	Boss	Elysion	Oh nein! Nicht das Licht der Rechtschaffenheit! Bist du fertig? Fangen wir endlich an. Ich habe einen langen Weg hinter mir.
+Theseus	Zagreus	Asterios	Boss	Elysion	Hast du das gehört, Asterios? Unser teuflischer Besucher fleht um Gnade. Fleht uns zweifellos an, unachtsam zu werden!! Mein Freund, lass ihn uns gemeinsam bezwingen. Möge die Herrlichkeit des Olymp unsere Hand führen!!
+Zagreus	Skelly		Gespräch	Hof	Das architektonische Meisterwerk meines Vaters bei jeder sich bietenden Gelegenheit zertrümmern? Das lass ich mir nicht zweimal sagen.
+Zagreus	Achilles		Gespräch	Thronsaal	Oh, es ist nur… Mir begegnete die Göttin Demeter da draußen. Die Segen, die sie mir gab, sie… ließen aus allem die Hitze und das Leben weichen. Ich dachte, sie kümmert sich um Früchte und Getreide und Gemüse und dergleichen? Nicht, dass ich mich beschweren will.
+Achilles	Zagreus		Gespräch	Thronsaal	Vor allen Göttern und Göttinnen muss man zittern. Demeter hat die Macht, Leben zu geben oder zu nehmen. Anscheinend liegt ihr aber mehr an Letzterem. Sie ist die Älteste im Olymp, und dein Vater scheint sie ganz besonders zu verabscheuen. Ich weiß nicht, warum. Sei vorsichtig.
+Nyx	Zagreus		Gespräch	Thronsaal	Es steht mir nicht zu, zu offen über Chaos zu sprechen, Kind. Es ist ihr Vorrecht, sich dir selbst zu offenbaren. Nur so viel: Sie sind die älteste Macht dieser Welt. Vor ihnen gab es Nichts.
+Zagreus	Chaos		Gabe	Chaos	Ich… weiß nicht genau, wie ich darauf antworten soll, Gebieter Chaos, doch ja, Nyx steht mir bei meinen Versuchen, aus dem Reich meines Vaterszu fliehen, zur Seite.
+Chaos	Zagreus		Gabe	Chaos	Die Dunkelheit, in der du wandelst, ist nicht von solch endlosem Schwarz wie ihre, doch erinnert mich durchaus daran. Ich würde sie gern bitten, sich vor mir zu verbergen, um dann zu versuchen, sie zu finden. Ein kleiner Zeitvertreib für uns beide. Dafür hab ich jetzt dich, wie ich sehe.
+Hades	Zagreus		Boss	Oberfläche	Ich… wie… du…. Geh. Geh schon. Geh!! Verschwinde von hier! Verschwinde!
+Zagreus	Hades		Boss	Oberfläche	Ich habe es dir doch gesagt, Vater. Und das werde ich auch. Lebewohl.
+Hades	Zagreus		Boss	Oberfläche	… Warte. Warte, es ist nur… wenn du… wenn du sie findest. Wenn du sie dort draußen irgendwo findest? Richte ihr bitte etwas aus. Richte ihr bitte aus… Richte ihr aus, dass es Kerberos gut geht.
+Zagreus	Hades		Boss	Oberfläche	Was? Moment mal. Ich denke nicht, dass ich dir einen Gefallen schulde. Aber wenn du mir eine Frage beantwortest, dann werde ich darüber nachdenken. Wie klingt das?
+Hades	Zagreus		Boss	Oberfläche	… Ich weiß, was du fragen willst, Junge. Aber nur zu, stell deine Frage.
+Zagreus	Hades		Boss	Oberfläche	Persephone. Meine Mutter. Warum ist sie gegangen?
+Hades	Zagreus		Boss	Oberfläche	… Ich… urgh… Blut und Finsternis…
+Erzählinstanz			Erzählung	Griechenland	Die Oberfläche, von Winden gepeitsch [sic], gepeinigt von bitterer Kälte und doch flößt sie dem Prinzen eine gewisse Ehrfurcht ein, kombiniert mit einem erhabenen Eindruck. Denn sie ist anders, als alles was er zuvor erblickt hatte.
+Persephone	Zagreus		Gespräch	Griechenland	Wer bitte schön bist du denn und was machst du hier draußen? Du befindest dich übrigens auf einem Privatgelände. Antworte!
+Zagreus	Persephone		Gespräch	Griechenland	Ähm, du musst wohl… Persephone sein. Ich heiße Zagreus und… ich glaube, ich bin dein Sohn.
+Persephone	Zagreus		Gespräch	Griechenland	Wie bitte?! Wie kannst du es wagen…! Fort mit dir! Fort mit dir oder ich werde dir Beine machen! Verschwinde!
+Zagreus	Persephone		Gespräch	Griechenland	Nein!! Dann bist du es also wirklich. Es, es ist mir gleich, ob du mich hasst. Aber ich gehe nicht, bis ich ein paar Antworten bekomme! Ich wusste nicht einmal, dass es dich gab. Warum hast du mich im Stich gelassen?
+Persephone	Zagreus		Gespräch	Griechenland	Du starbst! Du starbst…! Diese brennenden Füße, sie… verloschen. Als du geboren wurdest. Doch… nun stehst du hier vor mir. Wie…?
+Zagreus	Persephone		Gespräch	Griechenland	Ich starb… Ich starb? Was, du meinst ich starb endgültig? Aber ich lebe doch! Oh Götter… du wusstest auch nicht, dass es mich gab.
+Persephone	Zagreus		Gespräch	Griechenland	Lebendig! Zagreus, er… hat deinen Namen beibehalten. Du lebst, wie kann das sein, du lebst? Du lebst…? Oh bei den grausigen Schicksalsgöttinnen, mein Sohn!
+Zagreus	Persephone		Gespräch	Griechenland	..Kurz gesagt, ich habe ihn endlich geschlagen, obwohl er alles daransetzte zu verhindern, dass wir uns so wie jetzt begegnen würden. Aber er bat mich am Ende, dir etwas auszurichten. Er trug mir auf, dir auszurichten, dass es Kerberos gut geht.
+Persephone	Zagreus		Gespräch	Griechenland	Ah. So, so, das hat er dir aufgetragen. Das ist gut. Das ist gut! Doch, sag mir etwas Zagreus. Wie… wie hast du mich nur gefunden? Du hast diesen weiten Weg auf dich genommen, ich kann es kaum glauben… Zagreus?
+Zagreus	Persephone		Gespräch	Griechenland	Ugh… Oh, es ist… Ich glaube, ich bin nur ein bisschen müde, weiter nichts. Bin einfach nicht an das Wetter gewöhnt, so nennt man das doch, glaube ich.
+Persephone	Zagreus		Gespräch	Griechenland	Nein… nein, daran liegt es nicht, es ist… du kannst nicht hierbleiben. Du kannst nicht hierbleiben.
+Zagreus	Persephone		Gespräch	Griechenland	Wirklich, du… ha… wirfst mich raus? Warum?
+Persephone	Zagreus		Gespräch	Griechenland	Die Schicksalsgöttinnen sind grausam, Zagreus. Du bist an jenen Ort gebunden…. Genau wie dein Vater. Sie zwingen uns daher nun, uns zu verabschieden. Mein Herz schlägt höher, weil ich weiß, dass du lebst. Und dann zerbricht es, weil unsere gemeinsame Zeit so kurz war.
+Zagreus	Persephone		Gespräch	Griechenland	Nein… Ich kann… zurückkommen… Ich kann zurückkommen, nun da ich dich gefunden habe. Er… vielleicht lässt er mich einfach zurückkommen.
+Persephone	Zagreus		Gespräch	Griechenland	Sag ihm, dass ich es verlange. Und ebenso verlange ich, dass er mir sagt, warum weder er noch Nyx mich wissen ließ, dass du lebtest! Auf dem Olymp gibt es viele Ränkeschmiede, aber ich war so naiv zu glauben, die Unterwelt sei anders.
+Zagreus	Persephone		Gespräch	Griechenland	Ich werd's ihm sagen… Ich werd's ihm sagen, ich… fühle mich schrecklich. Ich… Ich muss gehen.
+Persephone	Zagreus		Gespräch	Griechenland	Der Styx wird dich nach Hause bringen. Oh, Zagreus. Lebe wohl, mein Sohn. Willst du mich nicht wieder besuchen? Sobald du kannst, bitte. Kehre zurück. Ich werde hier auf dich warten. Egal, wie lange es dauert.
